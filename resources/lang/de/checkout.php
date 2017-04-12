@@ -1,0 +1,21 @@
+<?php
+return [
+	'title' => 'VISA',
+	'titlee' => 'Rechnung',
+	'data' => 'Nutzer/Daten:',
+	'card' => 'VISA/Daten:',
+	'checkout' => '',
+	'total' => 'Total:',
+	'name' => 'Vorname',
+	'surname' => 'Nachname',
+	'address' => 'Strasse',
+	'number' => 'Hausnummer',
+	'post' => 'Postleitzahl',
+	'city' => 'Stadt',
+	'cardowner' => 'Kartenbesitzer',
+	'cardnumber' => 'Kartennummer',
+	'cardexmonth' => '#Verfallsmonat',
+	'cardexyear' => '#Verfallsjahr',
+	'cvc' => '#CVC',
+	'buy' => 'Kaufen jetzt',
+];

@@ -1,0 +1,20 @@
+<?php
+return array(
+	'title' => 'Termen und Bedingungen',
+	'intro' => '<h3>Die Bedingungen</h3>',
+	'main' => '<ul><li> <b>Super Fiesta</b> ist ein Einzelunternehmen, gebildet und registriert am 24 Februar 2017 im Handelsregister unter der Rechtsnormen und Verordnungen der Schweizerischen Eidgenossenschaft, mit dem Zweck zum Import von Gütern aus den Vereinigten Staaten von Nordamerika, aus der Argentinischen Republik, aus dem Plurinationalen Staat Bolivien, aus der Föderativen Republik Brasilien, aus der Republik Chile, aus der Republik Kolumbien, aus der Republik Costa Rica, aus der Republik Kuba, aus der Dominikanischen Republik, aus der Republik Ecuador, aus der Republik El Salvador, aus dem Königsreich Spanien, aus der Republik Guatemala,  aus der Republik Haiti, aus der Republik Honduras, aus den Vereinigten Staaten Mexiko, aus der Republik Nicaragua, aus der Republik Panama, aus der Republik Paraguay, aus der Republik Peru, aus der portugiesischen Republik, aus der Republik Östlich des Uruguay und aus der Bolivarischen Republik Venezuela.</li>
+<li> Den importierten und angebotenen Gütern von <b>Super Fiesta</b> entsprechen Lebensmittel, Tief-kühlprodukte, Schuhe, Kleider und Elektronik. Die Akquisition erfolgt durch die Applikation <b>Super Fiesta</b>.</li>
+<li> Die Applikation <b>Super Fiesta</b> (dessen Namen dem registrierten Unternehmen entspricht) wurde von Herrn Oscar Ramírez Robayo mittels Programmierung in HTML, CSS, SASS, VUE; PHP, Laravel, Bootstrap, C++, SQL, TexMaker, Photoshop CS6, rStudio, Ajax und JavaScript erschaffen und für die Nutzer des Internets, zur Informationen und Akquisition von angebotenen Sachgütern und Dienstleistungen des Unternehmens <b>Super Fiesta</b>, zur Verfügung gestellt.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> und die Applikation <b>Super Fiesta</b> definieren Nutzer als die Partei, die mit <b>Super Fiesta</b> eine schriftlich vereinbarte Übereinkunft für die Erbringung von importierten Produkten eingeht.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert höhere Gewalt als Ereignisse, die trotz Anwendung der gebotenen Sorgfalt nicht zu vermeiden sind und entweder durch den Nutzer oder Dritte entstehen. </li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Lieferort als den Ort, an den die Lieferung gemäss den vertraglich vereinbarten allgemeinen Geschäftsbedingungen erbracht werden soll. </li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Vertrag als die schriftlich getroffenen Vereinbarungen zwischen Parteien zur Erbringung der angebotenen Produkte der Applikation <b>Super Fiesta</b>.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Schriftform als die vereinbarte Form zwischen Parteien mittels Schreiben, Fax, E-Mail oder anderer Form.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Prospekte und Kataloge als Angaben von Informationen betreffend der angebotenen Produkte der Applikation <b>Super Fiesta</b>.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Preise als Werk des Herstellers, Verpackung, Fracht, Versicherung, Ausfuhr-, Durchfuhr-, Einfuhr-, und andere Bewilligungen gehen zu Lasten des Nutzers. Der Nutzer hat auch Steuern, Abgaben, Gebühren, Zölle zu tragen. Die Preise enthalten die zu verrechnenden Mehrwertsteuern.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert Zahlung als die Erfüllung geschuldeter Beträge für den geleisteten Dienst vom Unternehmen <b>Super Fiesta</b> und die angebotenen Produkte, welche in der Applikation <b>Super Fiesta</b> erscheinen.</li>
+<li> Das Unternehmen <b>Super Fiesta</b> definiert SSL als die Informationsüberweisung auf sichere Weise. Das Protokoll SSL verwendet Chiffreschlüssel zur Verschlüsselung und Entschlüsselung. Die SSL Technologie verschlüsselt die Information während einer Geldüberweisung über das Internet und erlaubt die Geheimhaltung des Nutzers. Diese Technologie wird heutzutage für VISA und MasterCard gebraucht.</li></ul>',
+	'conclusion' => '',
+	'motto' => '',
+	'product' => 'Zu den Produkten'
+);

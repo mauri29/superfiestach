@@ -1,0 +1,27 @@
+<?php
+return array(
+	'logo' => 'Super Fiesta',
+	'description' => '',
+	'address' => 'Metzgergasse 6B, 5034 Suhr - CH',
+	'phone' => 'Teléfono: 076 / 577 0929',
+	'email' => 'Email: superfiesta.ch@gmail.com',
+	'links' => 'Links generales',
+	'abouto' => 'Sobre Super Fiesta',
+	'private' => 'Protección de datos',
+	'termino' => 'Términos y condiciones',
+	'transporte' => 'Transporte',
+	'secure' => 'Métodos de pago',
+	'contacto' => 'Impressum',
+	'fiesta' => 'La aplicación',
+	'buy' => 'Sistema de compra',
+	'faqu' => 'Preguntas frequentes',
+	'blog' => 'Blog',
+	'faqs' => 'Faq\'s',
+	'contact' => 'Impressum',
+	'rights' => '© 2017 - Super Fiesta | superfiesta.ch | Todos los derechos reservados.',
+	'send' => 'Enviar',
+	'Name' => 'Tu nombre',
+	'E-Mail' => 'Tu E-Mail',
+	'Message' => 'Tu Mensaje',
+
+);
